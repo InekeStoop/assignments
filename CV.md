@@ -6,3 +6,12 @@
 - **Nationality** - Dutch
 - **E-mail** - c.m.p.stoop@gmail.com
 
+## Educational background
+- Feb 2016 - present 
+  * Master Economics - Tilburg University
+
+- Feb 2016 - present
+  * Master Accountancy - Tilburg University
+  
+- August 2012 - December 2015
+  * Bachelor Economics and Business Economics - Tilburg University 
