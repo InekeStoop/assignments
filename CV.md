@@ -22,7 +22,7 @@
 - Dec 2014 - July 2016
   * Tilburg University - Student Assistant Recruitment and Admissions
 - Sep 2014 - July 2016 
-  * Tilburg University - Studentenpool
+  * Tilburg University - [Studentenpool](https://www.tilburguniversity.edu/nl/studenten/loopbaan/career-services/careercenter/naar-de-arbeidsmarkt/bijbanen/studentenpool.htm)
 - Sep 2015 - Jan 2016 
   * [Deloitte](http://www2.deloitte.com/nl/nl.html) - Audit Assistent 
 
