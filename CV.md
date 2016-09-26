@@ -18,11 +18,11 @@
 
 ## Work experience 
 - Aug 2016 - present
-  * [Power2Improve](https://www.power2improve.com/) - Process Facilitator *(20h/week)*
+  * [Power2Improve](https://www.power2improve.com/) - Process Facilitator - *(20h/week)*
 - Dec 2014 - July 2016
-  * Tilburg University - Student Assistant Recruitment and Admissions *(12h/week)*
+  * Tilburg University - Student Assistant Recruitment and Admissions - *(12h/week)*
 - Sep 2014 - July 2016 
-  * Tilburg University - [Studentenpool](https://www.tilburguniversity.edu/nl/studenten/loopbaan/career-services/careercenter/naar-de-arbeidsmarkt/bijbanen/studentenpool.htm) * *(variable)* * 
+  * Tilburg University - [Studentenpool](https://www.tilburguniversity.edu/nl/studenten/loopbaan/career-services/careercenter/naar-de-arbeidsmarkt/bijbanen/studentenpool.htm) - *(variable)* 
 - Sep 2015 - Jan 2016 
-  * [Deloitte](http://www2.deloitte.com/nl/nl.html) - Audit Assistent *(24h/week)*
+  * [Deloitte](http://www2.deloitte.com/nl/nl.html) - Audit Assistent - *(24h/week)*
 
