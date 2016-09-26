@@ -8,11 +8,25 @@
 
 ## Educational background
 - Feb 2016 - present 
-  * Master Economics - Tilburg University
+  * Tilburg University - Master Economics
 - Feb 2016 - present
-  * Master Accountancy - Tilburg University
+  * Tilburg University - Master Accountancy 
 - August 2012 - December 2015
-  * Bachelor Economics and Business Economics - Tilburg University 
+  * Tilburg University - Bachelor Economics and Business Economics 
   ![alt text](https://github.com/InekeStoop/assignments/blob/master/uvt%20logo.png)
 
 ## Work experience 
+- Aug 2016 - present
+  * Power2Improve - Process Facilitator 
+  
+- Dec 2014 - July 2016
+  * Tilburg University - Student Assistant Recruitment and Admissions
+  
+- Sep 2014 - July 2016 
+  * Tilburg University - Studentenpool
+  
+- Sep 2015 - Jan 2016 
+  * Deloitte - Audit Assistent 
+  
+  
+- 
