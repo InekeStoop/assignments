@@ -8,9 +8,9 @@
 
 ## Educational background
 - Feb 2016 - present 
-  * Tilburg University - [Master Economics](https://www.tilburguniversity.edu/education/masters-programmes/accountancy/)
+  * Tilburg University - [Master Economics](https://www.tilburguniversity.edu/education/masters-programmes/economics/)
 - Feb 2016 - present
-  * Tilburg University - [Master Accountancy](https://www.tilburguniversity.edu/education/masters-programmes/economics/) 
+  * Tilburg University - [Master Accountancy](https://www.tilburguniversity.edu/education/masters-programmes/accountancy/) 
 - August 2012 - December 2015
   * Tilburg University - [Bachelor Economics and Business Economics](https://www.tilburguniversity.edu/nl/onderwijs/bacheloropleidingen/economie-en-bedrijfseconomie/) 
     
