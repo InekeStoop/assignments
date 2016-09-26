@@ -1,2 +1,2 @@
 # assignments
-Assignments Applied Economic Analysis 
+This repository contains my assignments for Applied Economic Analysis 
