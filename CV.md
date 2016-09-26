@@ -13,6 +13,7 @@
   * Tilburg University - [Master Accountancy](https://www.tilburguniversity.edu/education/masters-programmes/economics/) 
 - August 2012 - December 2015
   * Tilburg University - [Bachelor Economics and Business Economics](https://www.tilburguniversity.edu/nl/onderwijs/bacheloropleidingen/economie-en-bedrijfseconomie/) 
+    
     ![alt text](https://github.com/InekeStoop/assignments/blob/master/uvt%20logo.png)
 
 ## Work experience 
