@@ -17,11 +17,11 @@
 
 ## Work experience 
 - Aug 2016 - present
-  * Power2Improve - Process Facilitator 
+  * [Power2Improve](https://www.power2improve.com/) - Process Facilitator 
 - Dec 2014 - July 2016
   * Tilburg University - Student Assistant Recruitment and Admissions
 - Sep 2014 - July 2016 
   * Tilburg University - Studentenpool
 - Sep 2015 - Jan 2016 
-  * Deloitte - Audit Assistent 
+  * [Deloitte](http://www2.deloitte.com/nl/nl.html) - Audit Assistent 
 
