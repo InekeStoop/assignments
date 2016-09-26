@@ -8,11 +8,11 @@
 
 ## Educational background
 - Feb 2016 - present 
-  * Tilburg University - Master Economics
+  * [Tilburg University](https://www.tilburguniversity.edu/education/masters-programmes/accountancy/) - Master Economics
 - Feb 2016 - present
-  * Tilburg University - Master Accountancy 
+  * [Tilburg University](https://www.tilburguniversity.edu/education/masters-programmes/economics/) - Master Accountancy 
 - August 2012 - December 2015
-  * Tilburg University - Bachelor Economics and Business Economics 
+  * [Tilburg University[(https://www.tilburguniversity.edu/nl/onderwijs/bacheloropleidingen/economie-en-bedrijfseconomie/) - Bachelor Economics and Business Economics 
   ![alt text](https://github.com/InekeStoop/assignments/blob/master/uvt%20logo.png)
 
 ## Work experience 
