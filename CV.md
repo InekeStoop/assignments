@@ -13,6 +13,6 @@
   * Master Accountancy - Tilburg University
 - August 2012 - December 2015
   * Bachelor Economics and Business Economics - Tilburg University 
-![alt text](https://github.com/InekeStoop/assignments/blob/master/uvt%20logo.png)
+  ![alt text](https://github.com/InekeStoop/assignments/blob/master/uvt%20logo.png)
 
 ## Work experience 
