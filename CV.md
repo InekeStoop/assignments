@@ -27,6 +27,13 @@
   * [Deloitte](http://www2.deloitte.com/nl/nl.html) - Audit Assistent - *(24h/week)*
   * ![alt text](https://github.com/InekeStoop/assignments/blob/master/deloitte.PNG)
 
+## Side Activitees 
+ - Outreaching Honors Program - Tilburg University
+
+## Volunteerwork
+- Global Passport Project, AIESEC HCMC, Vietnam
+ * Tutoring in a 6 weeks English course for Vietnamese University students. 
+
 ## Languages
 - Dutch - Native
 - English - Professional Work Experience
