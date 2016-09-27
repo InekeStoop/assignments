@@ -30,5 +30,5 @@
 
 ![alt text](https://github.com/InekeStoop/assignments/blob/master/deloitte.PNG)
 
- 
+  
 
