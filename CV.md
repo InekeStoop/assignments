@@ -28,7 +28,7 @@
   * ![alt text](https://github.com/InekeStoop/assignments/blob/master/deloitte.PNG)
 
 ## Side Activitees 
- - Outreaching Honors Program - Tilburg University
+ - [Outreaching Honors Program](https://www.tilburguniversity.edu/students/studying/additional-education/outreaching/) - Tilburg University
 
 ## Volunteerwork
 - Global Passport Project, AIESEC HCMC, Vietnam
