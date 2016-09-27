@@ -27,5 +27,6 @@
   * [Deloitte](http://www2.deloitte.com/nl/nl.html) - Audit Assistent - *(24h/week)*
   * ![alt text](https://github.com/InekeStoop/assignments/blob/master/deloitte.PNG)
 
-  
-
+## Languages
+- Dutch - Native
+- English - Professional Work Experience
