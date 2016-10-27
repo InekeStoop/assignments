@@ -30,6 +30,33 @@ The tragedy of the commons can best be explained by a simple example, given by H
 
 Other examples of the tragedy of the commons are: overfishing in the ocean, depletion of oil and gas reservoirs, and pollution by different agents. A very important example of the tragedy of the commons will be more explained in the next section: Climate Change. After this section, some solutions of the tragedy of the commons will be mentioned. 
 
+###Application example for the tragedy of the commons: Climate change 
+In the following, an example is given how the tragedy of the commons can be applied in a real live context: the case of global warming. A closer look reveals that states do not act according to the predictions of the model. So in a classical game theoretical sense they do not act rational. Therefore, to explain this other concepts are needed. Behavioural game theory would be suited for that.
+ 
+Global warming or climate change is an international environmental problem. Mainly global warming is caused by the emission of greenhouse gases in the atmosphere. Greenhouse gases are produced by the use of fossil fuels, deforestation and farming and agriculture. The consequences of climate change are the melting of the polar ice shields and a rise of the sea level. In some regions extreme weather events and rainfall are becoming more common while others are experiencing more extreme heat waves and droughts. These changes also affect the living and surviving situations of humans and animals.
+ 
+The issue of climate change can be modelled with the help of Game Theory, in particular by the tragedy of the commons model which is, as mentioned above, a classical prisoner’s dilemma situation: Every state of the world would be better of if global warming would be addressed by collective action. At the same time, every state would prefer if all the other states would act while itself stays apart from doing anything. Because the reduction of greenhouse gasses bears costs for a state since including restrictions for industries which are important contributors to the welfare of a state. So the rational choice would be not to cooperate.
+
+However, it can be observed that international cooperation takes place: In order to address the problem of global warming with collective action of states the Kyoto protocol was set up. The Kyoto Protocol is an international treaty, which extends the 1992 United Nations Framework Convention on Climate Change that commits states to reduce greenhouse gas emission.
+
+While the cooperation in this case cannot be explained with standard game theoretical models, and explanation with help of behavioural game theory is possible.
+ 
+One possible explanation why states in that case act differently than the “tragedy of the commons” model predicts can be given by including the element of iteration. Even if it is rational for actors not to cooperate if they meet each other once, it can become a rational action for them if they meet more often and have the opportunity to respond to the actions of the others.
+
+Moreover, the structure of the problem in itself provides an incentive to establish cooperation, because everyone would be harmed the most by collective inaction. Collective inaction would lead to severe economic and ecologic harm in the long run which is far higher than the benefit in the short term. Everyone would be better of if a process can be set up (like the Kyoto Protocol) that guarantees mutual cooperation. Furthermore, while the standard economic agent purely is aimed at maximizing his own utility, in the case of slowing down climate warming the effect will be on future generations and thus is not in the self-interest of an actor today.
+ 
+###Solutions to the tragedy of the commons
+In the previous example, one of the solutions to the tragedy of the commons was given: a binding contract. Moreover, there other possible solutions would be property rights, taxation and regulation and referencing. 
+
+Property rights assign property to an individual and therefore change a common to a privat. Thus, the individual owning the private does not an incentive to overexploit his property. However, this solution is not applicable for all commons. For example fresh air can not be a private, because use of it can not be limited by property rights. 
+
+Taxation and regulation provides the possibility to make non-cooperation more expensive for the individual. For example a tax can be placed on the emission of greenhouse gasses. 
+
+Referencing compares individual behavior with average social behavior. Through this social norms can affect individual behavior, because it is generally not favorable for an individual to deviate with his actions from what is socially accepted. For example, individual energy consumption can be decreased by showing the energy use of an individual in comparison to its neighbors.  
+
+## Conclusion 
+The aim of this canon was to give an insight into Behavioral Economics. It was described where Behavioral Economics can be placed in the disciple of Economics. Furthermore, some general terms were clarified which are necessary background knowledge for understanding the content of this canon. Second, an example was given of a basic economic situation, the tragedy of the commons, lined out in the context of an environmental issue. It was shown how standard economic theory fails to explain the actions of individuals and lined out how these actions could be explained while using Behavioral Economics. This stressed the importance of Behavioral Economics
+
 ## Interesting articles to read
 * Brown, G. and Hagen, D.A. (2010) [Behavioural Economics and the Environment](http://search.proquest.com/openview/ad1dcbc41c85d8f954a429bc4ca82d5b/1?pq-origsite=gscholar) *Environment and Resource Economics* 46: 139-146.
 * DeSombre, E.R. (2004) [Global Warming: More Common Than Tragic](http://web.mit.edu/sabrevln/Public/GameTheory/Ethics%20&%20International%20Affairs/Global%20Warming%20More%20Common%20than%20Tragic.pdf) *Ethics & International Affairs* 18(01), 41-46.
