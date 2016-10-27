@@ -1,6 +1,24 @@
 # Canon 
 
-## 
+## Introduction
+Behavioural Economics, a subfield of the discipline of Economics will be discussed in this canon. This field gained importance over the last decades, because it provides insights into the way people make decisions about their actions. Since individuals do not always act according to theoretical models Behavioural Economics is aimed at bridging this gap between theory and reality, leading to more realistic predictions. Two tools used in behavioural economics are dealt with in detail: Game Theory and Utility Theory. These theories can be used to answer societal questions. This is demonstrated with examples in the context of environmental matters; the tragedy of commons.
+
+## Definition of key concepts 
+In the following key concepts and terms are explained in order to provide a basic background knowledge of economics required to understand what behavioral economics is about. 
+
+###Economics - Microeconomics
+Economics is a social science concerned with the factors that determine the production, distribution, and consumption of goods and services. Economics is focussed on behavior and the interaction of people (economic agents) as well as how economies as a whole work. Generally economics is divided into macro- and microeconomics. Macroeconomics focuses on economies as a whole while microeconomics focuses more on individual actions of for example individuals, households, or firms. One important assumption in economics is that of rationality. Rational choice theory assumes that people are self-interested, have stable preferences, engage in maximizing behavior and take all possible option into account. 
+
+###Utility theory
+In economics, utility theory is used to explain the choices individuals make. Utility theory implies that individuals value a good or service based on the satisfaction they derive from it.  It is not always possible to exactly measure utility from all possible outcomes, but individuals are capable of ranking them from best to worst. This implies that individuals have a complete overview of all possible options. They are able to indicate which good or service they prefer over others, but with regards to the same good or service it holds that more is always better. With regards to the complete set of goods and services they consume, people prefer to have variety: mix is always better. Again, rationality is an important assumption in utility theory. 
+This tool can be used in Behavioral economics. 
+
+###Game theory
+Game theory analyses multi-person decision problems, which are called games. A game is a situation in which at least two individuals who have at least partially diverging interests interact with one another. Here, the payoff of one player does not only depend on the player´s own actions but also on the other player´s actions. The task of game theory is to model and to solve such games. To solve a game means to determine how a rational player would act in it.
+The most famous application of game theory is the prisoner's dilemma. Two (or more) rational individuals might not cooperate, even though it would be best for both of them to do so. This dilemma can be explained best with an example: imagine two members being arrested and imprisoned. There is not sufficient evidence, so both members need to be questioned but they are not able to speak with each other. Each member can either confess or remain silent. If both members remain silent they are imprisoned for 1 year and if both confess they are imprisoned for 2 years. However if only one confesses and the other remains silent, the one who confesses is set free while the other is imprisoned for 3 years. Regardless of what the other person does, it is always better to confess. Rational game theory would therefore predict an outcome that is not best for everybody. 
+
+###Behavioral economics 
+Behavioral economics studies the effects of psychological, social, cognitive, and emotional factors on the economic decisions of individuals and institutions. The consequences of these decisions, on for example market prices, are also of interest. Behavioral economics is primarily concerned with the bounds of rationality of economic agents. Behavioral economic has gained importance over the last decades, because it provides insights into the way people make decisions. People do not act rational, but as human beings guided by intuitions and emotions. Nowadays, behavioral economics plays an important role in informing policy makers about the consequences of certain policies.
 
 ## Interesting articles to read
 * Brown, G. and Hagen, D.A. (2010) [Behavioural Economics and the Environment](http://search.proquest.com/openview/ad1dcbc41c85d8f954a429bc4ca82d5b/1?pq-origsite=gscholar) *Environment and Resource Economics* 46: 139-146.
