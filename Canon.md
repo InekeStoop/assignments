@@ -1,4 +1,4 @@
-# Canon 
+# Behavioral Economics applied on Environmental Issues
 
 ## Introduction
 Behavioural cconomics, a subfield of the discipline of economics will be discussed in this canon. This field gained importance over the last decades, because it provides insights into the way people make decisions about their actions. Since individuals do not always act according to theoretical models behavioural economics is aimed at bridging this gap between theory and reality, leading to more realistic predictions. Two tools used in behavioural economics are dealt with in detail: game theory and utility theory. These theories can be used to answer societal questions. This is demonstrated with examples in the context of environmental matters; the tragedy of commons.
