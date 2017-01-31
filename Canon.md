@@ -1,7 +1,8 @@
 # Behavioral Economics applied on Environmental Issues
 
 ## Introduction
-> Behavioral economics is about understanding economic behavior and its consequences. It’s about understanding why someone buys a hotdog, goes to work, saves for retirement, gives to charity, gets a qualification, sells an old car, gambles on a horse race, cannot quit smoking, etc. It’s also about understanding whether people make good or bad choices, and could be helped to make better choices.  	[(Edward Cartwright)](https://books.google.nl/books/about/Behavioral_Economics.html?id=IbysAgAAQBAJ&redir_esc=y)
+<p style="text-align: justify;"> 
+>  Behavioral economics is about understanding economic behavior and its consequences. It’s about understanding why someone buys a hotdog, goes to work, saves for retirement, gives to charity, gets a qualification, sells an old car, gambles on a horse race, cannot quit smoking, etc. It’s also about understanding whether people make good or bad choices, and could be helped to make better choices.  	[(Edward Cartwright)](https://books.google.nl/books/about/Behavioral_Economics.html?id=IbysAgAAQBAJ&redir_esc=y)</p>
 
 In this canon behavioral economics, a subfield of the discipline economics, is discussed. Behavioral economics gained importance over the last decades, because it provides insights into the way people make decisions about their actions. Since individuals do not always act according to standard economics theoretical models, behavioral economics is aimed at bridging this gap between theory and reality, leading to more realistic explanations and predictions of human behavior.  
 <br>
