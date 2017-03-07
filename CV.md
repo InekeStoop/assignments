@@ -16,7 +16,7 @@
 
 ## Work experience 
 - Aug 2016 - present
-  * [Power2Improve](https://www.power2improve.com/) - Process Facilitator - *(20h/week)*
+  * [Power2Improve](https://www.power2improve.com/) - Process Facilitator - *(20h-25h/week)*
 - Dec 2014 - July 2016
   * Tilburg University - Student Assistant Recruitment and Admissions - *(12h/week)*
 - Sep 2014 - July 2016 
